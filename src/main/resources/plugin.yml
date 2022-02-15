@@ -1,0 +1,10 @@
+name: CommandPortals
+version: '${project.version}'
+main: me.vhajor.commandportals.CommandPortals
+api-version: 1.14
+authors: [ Vhajor ]
+description: yup.
+commands:
+  portal:
+    description: yup.
+    aliases: [port]
